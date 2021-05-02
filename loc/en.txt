@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_hotline_heist_tracks" : "Hotline Heist Tracks",
+    "menu_jukebox_screen_hotline_heist_tracks" : "Hotline Heist Tracks"
+}
